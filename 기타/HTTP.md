@@ -21,7 +21,7 @@
     #### Request 메시지
     - 공백(Blank line)을 제외하고 3가지 부분으로 나뉘어짐
       - Request 구조  
-        ![image.png](./img/img5.png)
+        ![image.png](../img/img5.png)
           - Start Line
               - HTTP Request Message의 시작라인
               - HTTP method
@@ -46,7 +46,7 @@
               - 전송 데이터가 없으면 해당 부분 비어있음
               - post 요청의 경우 HTML 폼 데이터가 포함됨
       #### Response 메시지
-      ![image.png](./img/img6.png)
+      ![image.png](../img/img6.png)
         - status line
             - HTTP Response의 상태를 간략히 나타내고, 3가지 부분으로 구성됨
                 - HTTP version
